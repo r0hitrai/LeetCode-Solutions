@@ -1,7 +1,7 @@
 /*
 Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 */
-public class Test {
+public class DiagonalTraverse {
     public static int[] findDiagonalOrder(int[][] mat) {
         // size of the matrix
         int m = mat.length, n = mat[0].length;
