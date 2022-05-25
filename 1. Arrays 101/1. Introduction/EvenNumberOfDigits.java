@@ -1,3 +1,7 @@
+/*
+Given an array nums of integers, return how many of them contain an even number of digits.
+*/
+
 public class EvenNumberOfDigits {
     public int findNumbers(int[] nums) {
         // numbers of even number of digits

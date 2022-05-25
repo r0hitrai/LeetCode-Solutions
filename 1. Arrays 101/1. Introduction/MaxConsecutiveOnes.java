@@ -1,3 +1,7 @@
+/*
+Given a binary array nums, return the maximum number of consecutive 1's in the array.
+*/
+
 class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         // number of 1s, maximum number of 1s
